@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header">Header</string>
+    <string name="title">Title</string>
+    <string name="subhead">Subhead</string>
+    <string name="product_title">Product</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</string>
+    <string name="enabled">Enabled</string>
+    <string name="media">Media</string>
+    <string name="buttonWithId">Кнопка с текстом Id</string>
+</resources>
